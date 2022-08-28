@@ -18,3 +18,13 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+Sections
+===============
+
+To read more details on each section, you can read them below
+
+.. toctree::
+   :maxdepth: 2
+
+   sections/sections
