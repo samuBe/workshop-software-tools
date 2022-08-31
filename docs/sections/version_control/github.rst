@@ -14,6 +14,6 @@ Exercise
 
 In this exercise, you'll create a pull request and review the pr. There are three steps:
 
-    * Invite the person sitting on the left of you to your repository. Wait for them to accept it.
-    * Go to `github <https://www.github.com>`_ and proceed to your repository. Click on create a pull request if there is a button for it, otherwise create it in the pr tab. For the reviewer, choose the person sitting on the left.
-    * Go to the repo of the person sitting on the right of you and review the pr that you were just invited to.
+* Invite the person sitting on the left of you to your repository. Wait for them to accept it.
+* Go to `github <https://www.github.com>`_ and proceed to your repository. Click on create a pull request if there is a button for it, otherwise create it in the pr tab. For the reviewer, choose the person sitting on the left.
+* Go to the repo of the person sitting on the right of you and review the pr that you were just invited to.

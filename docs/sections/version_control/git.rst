@@ -6,6 +6,11 @@ Git is a distributed version control system, created by Linus Thorvalds. It is t
 Commands
 --------
 
+Status
+^^^^^^
+
+Get the current status of all files in the current repository, by executing git status. In visualstudio, this can be found in the source control pannel, as well as the different colors of the files (M means modified, A added, U untracked).
+
 Add
 ^^^
 
@@ -40,3 +45,4 @@ Exercise
 --------
 
 Create and checkout a new branch in your repository. Edit the readme file, so that it contains your name and a fun fact about yourself. Stage and commit the changes. Lastly push them to the remote.
+If you have problems, pushing the new branch, use the proposed command in the terminal.

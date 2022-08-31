@@ -27,4 +27,11 @@ To read more details on each section, you can read them below
 .. toctree::
    :maxdepth: 2
 
-   sections/sections
+   sections/IDE/IDE
+   sections/IDE/vscode
+   sections/version_control/git
+   sections/types/types
+   sections/version_control/github
+   sections/testing/pytest.rst
+   sections/documentation/sphinx
+   

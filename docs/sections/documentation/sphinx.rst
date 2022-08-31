@@ -24,3 +24,8 @@ Intersphinx
 -----------
 
 Lots of Python documentation is generated using sphinx, to include this, one can use intersphinx. More info, see `it's documentation <https://www.sphinx-doc.org/en/master/usage/quickstart.html?highlight=autodoc#intersphinx>`_
+
+Exercise
+--------
+
+As an exercise, you can document the code you have previously written. This is however a lot of work, to get a quick grasp of how sphinx works, you can read the source code of this documentation.
